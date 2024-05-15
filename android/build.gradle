@@ -38,7 +38,6 @@ repositories {
 
 dependencies {
     implementation 'com.facebook.react:react-native:+'
-    implementation 'com.google.android.gms:play-services-wallet:16.0.0'
+    implementation 'com.google.android.gms:play-services-wallet:19.2.1'
     implementation 'androidx.appcompat:appcompat:1.0.0'
 }
-  
